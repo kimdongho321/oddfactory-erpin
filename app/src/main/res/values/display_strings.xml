@@ -1,0 +1,5 @@
+<resources>
+    <integer name="display_none">0</integer>
+    <string name="display_service_name">에르핀 캐릭터 표시</string>
+    <string name="display_service_description">화면 위에 에르핀과 음식 그림을 표시하고 캐릭터에서만 메뉴와 위치 이동을 받습니다. 다른 앱의 화면 내용·글자·입력·스크롤을 읽지 않으며 대신 누르거나 동작을 실행하지 않습니다. 충전 연결과 재생 여부는 별도의 충전 서비스가 결정합니다. 에르핀 앱이나 캐릭터 메뉴에서 종료할 수 있습니다.</string>
+</resources>
